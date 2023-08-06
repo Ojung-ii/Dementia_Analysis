@@ -27,7 +27,7 @@
 
 ---
 ![노인 아들 치매 사진](https://github.com/yonghyeun/Dementia_Analysis/assets/123540354/7a6244d2-e169-4f2b-9a07-098a7f23bfde)
-
+[이미지 출처](https://www.kaggle.com/datasets/yasserhessein/dataset-alzheimer)
 
 
 ### **고령화 시대의 의료 불균형 해소를 위한 치매 진단 파이프라인 구축**
@@ -64,7 +64,7 @@
 <img width="782" alt="치매 조기진단의 중요성" src="https://github.com/yonghyeun/Dementia_Analysis/assets/123540354/ae4d6365-aac5-4a04-941b-9e635db0b97e">
 
     
-    ["AI 활용한 치매치료 기술, 고령화 시대에 가장 필요한 솔루션"](https://www.pharmnews.com/news/articleView.html?idxno=220533)
+["AI 활용한 치매치료 기술, 고령화 시대에 가장 필요한 솔루션"](https://www.pharmnews.com/news/articleView.html?idxno=220533)
     
 - **정확도, 시간 단축** : MRI, PET 등의 분석을 통한 질병 유무 판별은 많은 시간이 소요되는 과정이다. M.L / D.L 모델은 이런 과정을 단축하고 정확도 면에서도 더 우수하다.
 
